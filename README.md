@@ -1,7 +1,7 @@
 # Born2beroot
 
 <p align="center">
-  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png" alt="Born2beroot 42 project badge"/>
+  <img src="https://www.google.com/search?q=born2beroot&sxsrf=AJOqlzXE15clRmBEN55N2udNXJN7DpZatw:1673647677837&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj86MO6x8X8AhXxQaQEHVIODIIQ_AUoAnoECAEQBA#imgrc=9iCClbqQ2qwViM&imgdii=LprOUK3GeTc1OM"/>
 </p>
 
 The 42 project Born2beroot explores the fundamentals of system administration by inviting us to install and configure a virtual machine. By the end of this project, we will have learned about virtualization, partitioning schemes, LVM, command-line software, protocols such as SSH and the importance of securing a system thanks to sudo, firewalls and password policies.
@@ -24,10 +24,10 @@ That said, I hope these guides can be useful if you're stuck or simply curious t
 
 ---
 
-[Github Born2beroot Debian guide](https://github.com/mcombeau/Born2beroot/tree/main/guide):
-* [Istallation](https://github.com/mcombeau/Born2beroot/blob/main/guide/installation_debian.md)
-* [Configuration](https://github.com/mcombeau/Born2beroot/blob/main/guide/configuration_debian.md)
-* [Bonus](https://github.com/mcombeau/Born2beroot/blob/main/guide/bonus_debian.md)
+[Github Born2beroot Debian guide](https://github.com/homass/born2beroot-42cursus/tree/main/guide):
+* [Istallation](https://github.com/homass/born2beroot-42cursus/blob/main/guide/installation_debian.md)
+* [Configuration](https://github.com/homass/born2beroot-42cursus/blob/main/guide/configuration_debian.md)
+* [Bonus](https://github.com/homass/born2beroot-42cursus/blob/main/guide/bonus_debian.md)
 
 ---
 Made by Houssame Ait Hsain | hait-hsa: hait-hsa@student.1337.ma
