@@ -2,7 +2,7 @@
 
 For the Born2beroot bonuses, we have to install WordPress with Lighttpd, MariaDB and PHP. We also have to install another service of our own choice, and justify that choice.
 
-There is a [VM installation guide](https://github.com/mcombeau/Born2beroot/blob/main/guide/installation_debian.md) and a [configuration guide](https://github.com/mcombeau/Born2beroot/blob/main/guide/configuration_debian.md), as well.
+There is a [VM installation guide](https://github.com/homass/born2beroot-42cursus/blob/main/guide/installation_debian.md) and a [configuration guide](https://github.com/homass/born2beroot-42cursus/blob/main/guide/configuration_debian.md), as well.
 
 ## Installing WordPress
 
