@@ -2,7 +2,7 @@
 
 Installing the Born2beroot VM has several steps involved: the creation of the virtual machine (VM) in VirtualBox, the installation of Debian OS with the creation of the root user, the partitionning of disks (including LVM) and the choice of initial software.
 
-There is a [configuration guide](https://github.com/mcombeau/Born2beroot/blob/main/guide/configuration_debian.md) and a [bonus guide](https://github.com/mcombeau/Born2beroot/blob/main/guide/bonus_debian.md), as well.
+There is a [configuration guide](https://github.com/homass/born2beroot-42cursus/blob/main/guide/configuration_debian.md) and a [bonus guide](https://github.com/homass/born2beroot-42cursus/blob/main/guide/bonus_debian.md), as well.
 
 ## Pre-requisites
 * [Oracle VirtualBox](https://www.virtualbox.org/) (6.1 at the time of this writing).
