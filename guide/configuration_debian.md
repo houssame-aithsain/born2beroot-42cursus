@@ -2,7 +2,7 @@
 
 This guide covers the installation of sudo, UFW, SSH, Password Policy, monitoring.sh. There is also a fix for the common ERROR: Failed to send host log message.
 
-There is a [VM installation guide](https://github.com/mcombeau/Born2beroot/blob/main/guide/installation_debian.md) and a [bonus guide](https://github.com/mcombeau/Born2beroot/blob/main/guide/bonus_debian.md), as well.
+There is a [VM installation guide](https://github.com/homass/born2beroot-42cursus/blob/main/guide/installation_debian.md) and a [bonus guide](https://github.com/homass/born2beroot-42cursus/blob/main/guide/bonus_debian.md), as well.
 
 ## Sudo Setup
 
